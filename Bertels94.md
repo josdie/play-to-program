@@ -1,0 +1,5 @@
+A dynamic view on cognitive student modeling in computer programming<br>
+Koen Bertels, Page 85-105<br>
+AI-ED 5(1), 1994<br>
+<br>
+An investigation into the many reasons that a novice programmer can make mistakes while either writing or trying to understand a program and the implications into what is the most appropriate way to model student knowledge.  They found that for low-level knowledge such as the semantics of basic programming constructs and idiomatic usages such as variable roles, a buggy model is most appropriate because students either understand them or have misconceptions about them.  They also found that for higher-level knowledge such as programming plans and problem solving strategies, an overlay model is most appropriate because student errors are caused by an incomplete understanding.  The implication for diagnosis is that it cannot be performed by simply comparing student behavior with an expert model until the basic low-level concepts are mastered.

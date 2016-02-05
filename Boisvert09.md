@@ -1,0 +1,6 @@
+A visualisation tool for the programming process<br>
+Charles R. Boisvert<br>
+ITiCSE'09, SIGCSE Bulletin 41(3), September 2009<br>
+Pages 328-332<br>
+<br>
+This paper presents an interesting twist on the visualization idea.  He developed a system that instead of visualizing a static program, visualizes the process to create a program.  A student can view the program in its intermediate forms as it was developed, execute those intermediate forms, and see comments on the thoughts that lead from one step in the development to the next.  The system basically allows a tutoring system to model a teacher modeling the problem solving and program/algorithm development process.  Teachers developing examples can gain insight in how to break down and explain the process, as well as into the difficulties students may face in doing development themselves.  Intermediate versions can solve part of the problem, solve related problems that help lead to the solution, or contain mistakes that help highlight the right path to solving the problem.  The system described in this paper is for web development, but these ideas could be used to demonstrate developing the kinds of programs introductory CS students have to write, as well as refactoring and other basic programming processes.

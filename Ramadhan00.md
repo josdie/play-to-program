@@ -1,0 +1,11 @@
+Haider Ali Ramadhan. 2000. DISCOVER: An intelligent system for discovery programming, _Journal of Cybernetics & Systems_, 31, 1 (January 2000), 87-114.
+
+The stated basic motivation behind this system is to integrate a free visual programming environment with a guided programming tutor to support both students' understanding of the syntax and semantics of the programming language they are learning and their ability to apply it to write programs and solve problems.  Our project has the same goals.  Their system is not actually a visual programming environment however, just a visual debugger.  For the guided programming component, the system uses model-tracing to provide feedback while the student is constructing their program (like [ACT](Corbett00.md)), but it works from a model solution and hand-written explanations and does not include a bug library.  The implementation of the tutoring component is described further in an earlier paper.  They discuss some advantages and disadvantages of their (very constrained) approach.  The only evaluation they performed was on the effect of the visual debugging features, but a complete analysis of the results was not performed.
+
+---
+
+Improving the engineering of model tracing based intelligent program diagnosis<br>
+Haider Ali Ramadhan, Page 149-161<br>
+IEE Proceedings, Software Engineering 144(3), June 1997<br>
+<br>
+Earlier paper discussing the implementation of the intelligent tutoring component.  Despite the many disadvantages of model tracing in this domain, they argue that using a model solution-based domain model instead of a production rule-based domain model makes it more feasible to use for the very limited set of operations that their system supports.  They also explain how this allows them to support a limited variability in the code (within statements) without causing a combinatorial explosion in the computational cost of the system (variability of statement orderings is encoded in the model solutions).  Their "pattern matching" approach for determining the correctness of each statement actually looks a lot like constraint verification.

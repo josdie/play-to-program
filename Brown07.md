@@ -1,0 +1,7 @@
+RegeXeX: an Interactive System Providing Regular Expression Exercises<br>
+Brown and Hardisty, Page 445-449<br>
+SIGCSE'07<br>
+<br>
+RegeXeX is an interactive system that provides feedback on students writing learning to write regular expressions. When an answer is written, students are told if the answer is wrong or right, but also "given examples of strings that the expression either matches and should not or does not match and should, and asked to try again." Student responses also need to be "equivalent" to the solution instead of identical. It is a free, portable system, written in C++. It uses Qt as its GUI library. An example is presented with the question "Write a regular expression for the language of all strings over the alphabet (a,b,c) that start with character a." If the student enters b(a | b) + as their answer, they will be prompted saying the answer is incorrect and that their expression matches some string it shouldn't, such as ba, bb, and baa, and does not match some strings that it should, such as a or aa, or ab. RD<br>
+<br>
+DJW adds, they note that students aren't inclined to try to check their regular expressions for correctness (for instance, by trying to find counterexamples).  They noticed that they spent a lot of tutoring time doing this for the students, so they wrote RegeXeX to automate this.  They mention that they'd like to further develop this into an ITS.

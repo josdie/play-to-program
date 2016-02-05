@@ -1,0 +1,5 @@
+Learning strategies and transfer in the domain of programming<br>
+Peter Pirolli and Margaret Recker, Page 235-275<br>
+Cognition and Instruction, 12(3), 1994<br>
+<br>
+A study of student learning with the Lisp tutor based on the cognitive theories that underlie model tracing tutoring, which is used by the Lisp tutor.  Previous studies analyzed students' interactions with the Lisp tutor itself and the qualities of other resources used.  This paper extended the study to students' actions and behaviors before using the tutor (such as while reading instruction text and examples).  The results provided support for the cognitive theory and provided some features of more effective learners, such as better ability to explain what they've read.  They also find that the tutor system fails to capture any information about students' learning strategies, and that more investigation of this idea could be useful.

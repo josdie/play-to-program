@@ -1,0 +1,7 @@
+Laurie Murphy, Gary Lewandowski, Renée McCauley, Beth Simon, Lynda Thomas, Carol Zander<br>
+39th SIGCSE<br>
+Pages 163-167<br>
+They did a study comparing debugging techniques used by experts versus those used by novices. Result: the techniques used were generally the same, however, experts used these techniques with greater efficiency.<br>
+Also, they classified the techniques of novice debuggers into three categories: the good, the bad, the quirky with a short analysis of each.<br>
+<br>
+DJW adds, through studying students' actions during a debugging task, they attempted to determine and classify the strategies that students use, looking for effective and ineffective strategies.  They suggest that students could use more practice and direct instruction in debugging, and that they could also benefit from more self-reflection on their own debugging behavior.  While finding what many others have found, that students try tracing in their heads when they should do it on paper, they noted that students didn't seem to be aware of the cognitive overload and other reasons that this doesn't always work.  Having to deal with alternate implementation strategies and coding styles from what they would use presents a useful challenge.  They also find that familiarity with testing strategies and use of a debugger are helpful.  The paper also includes an extensive analysis of the strategies they observed students using.

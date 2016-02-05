@@ -1,0 +1,7 @@
+A cross-domain visual learning engine for interactive generation of instructional materials<br>
+Subramanian and Casser, Page 488-492<br>
+SIGCSE'08<br>
+<br>
+This algorithm visualization tool is perhaps the most similar to what we are envisioning, in the sense that students first write code and then can see the visualisation of the code they have written, or can change code to explore 'what-if' situations. The authors posit that this level of increased engagement will foster student engagement The argument seems to be that visualisation techniques like this will encourage students to be engaged and so they will learn. They have no results at the time of writing, and were instead working on ways to measure their tool's success and improve it. EF<br>
+<br>
+DJW adds, what they actually present in this paper is a tool for creating visualizations and animations.  It is probably most appropriate for visualizing algorithms, but can also be used for other things.  They list the ability to create things that require user input as a unique feature of their tool.  They also claim it's easier to model recursive processes with their tool.  The prototype tool, written in Jython, comes with a library of components to help with creating visualizations of programs and signals (EE).

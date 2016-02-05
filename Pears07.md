@@ -1,0 +1,4 @@
+A survey of literature on the teaching of introductory programming<br>
+Pears et al., ITiCSE-WGR'07.<br>
+<br>
+This survey paper attempts to connect instructors designing and teaching intro CS courses to relevant educational research in the area.  It references papers about curricula, pedagogy, languages, and tools.  They note that there needs to be more research done in this area that's grounded in sound educational theory.  As it pertains to tools, some interesting notes they make include noting the value of Python's interactive interpreter, the need to combine static with dynamic visualizations for full effect, and the lack of wide adoption of programming ITSs, and the lack of accessibility of ones that have been developed (a common problem in general with tools created as part of research projects).  The paper ends with an annotated bibliography of papers they've deemed important and/or influential.

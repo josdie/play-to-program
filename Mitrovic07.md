@@ -1,0 +1,3 @@
+Antonija Mitrovic, Brent Martin, and Pramuditha Suraweera. 2007. Intelligent tutors for all: the constraint-based approach. _IEEE Intelligent Systems_ 22, 4 (July 2007), 38-45.
+
+Overview of the Constraint-Based Modeling (CBM) approach to student modeling in Intelligent Tutoring Systems that was developed by the authors.  CBM is an alternative to model-tracing that is easier to develop and more suitable to domains with open-ended problem solving procedures, such as programming.  This paper also talks about some authoring tools for CBM-based tutors developed by the authors.

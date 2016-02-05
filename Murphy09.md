@@ -1,0 +1,6 @@
+Retina: helping students and instructors based on observed programming activities<br>
+Christian Murphy, Gail Kaiser, Kristin Loveland, Sahar Hasan<br>
+SIGCSE'09, SIGCSE Bulletin 41(1), March 2009<br>
+Pages 178-182<br>
+<br>
+Retina is a tool that integrates into a student's Java compiler and sends data to a centralized server every time they compile while they work on an assignment.  The server compiles class-wide and individual statistics and makes these available to students and instructors.  Students can get an idea of how they compare to the rest of the class in terms of compilation errors and amount of time spent on the assignment.  Instructors can see what the most common errors are, and how much time students are spending on assignments.  The server also includes an IM bot that can give students information about how much time they can expect to spend on assignment (based on data from previous semesters), how to fix or prevent errors they are making more often than others, what certain compiler errors mean, and more.  Retina can provide useful information to students and instructors alike, improving confidence, transparency, and student-teacher interaction.  Interestingly, Retina is the product of an undergraduate research group.

@@ -1,0 +1,5 @@
+Mental models of recursion revisited<br>
+Sanders et al., Page 138-142<br>
+ITiCSE'06<br>
+<br>
+After doing a study into their students' mental models of the flow of execution of recursive algorithms they made some changes to their teaching.  They realized the overly simple examples they were using were not conducive to students developing an accurate mental model of recursive flow control.  Tail recursive examples give the idea that recursion can be modeled by iteration, which is not always true.  Recursive functions where no computation takes place after the recursive call give the idea that the flow of control only goes up the call stack and ignores the flow of control back down the call stack as it returns from the base case back to the original call.  So, they started introducing recursive algorithms that do have computation after the recursive call (such as computing the value of recurrence relations) first, before simpler examples, to their students.  They found this to be effective in helping their students develop correct and viable models of recursive execution.

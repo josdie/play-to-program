@@ -1,0 +1,4 @@
+Orit Hazzan<br>
+SIGCSE Bulletin 40(2), June 2008, Pages 40-43<br>
+<br>
+Talks about the difficulties in teaching soft concepts, like abstraction and stepwise refinement. Notes that students unconsciously reduce the level of abstraction when trying to learn a concept. Soft concepts cannot be taught directly, but only in the context of learning something else, or solving a problem. Of course, examples help make abstract ideas more concrete. As teachers work through any other examples or concepts, they should point out where there's a bigger picture or soft concept coming into play, be aware of their own mental processes (especially for problem solving) and share these with the students. They should also encourage students to reflect on their own mental processes. Finally, it points out that students don't learn primarily by seeing, but by doing and by reflection (aka active learning).

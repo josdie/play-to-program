@@ -1,0 +1,5 @@
+Alex Pantaleev<br>
+Pages 387-387<br>
+This extended abstract reports what he plans to create, an interactive style teaching mechanism that allows students to learn OOP and the internal workings of computer behavior. He uses a mouse and a maze to show the mechanisms a computer uses to run a program. The paper is extremely abstract and it is not really clear what his interactive mechanism or game will teach students. He give the example of students going for a third person view of the mouse to a first person view, and that is suppose to teach students computing better. I'm not sure how that really teaches a student anything so until further work is done, this is a mostly dead source. RD<br>
+<br>
+DJW adds, it appears that the mouse in a maze with the limited operations it can perform serves as an analogy to the low-level operations performed by a CPU, and the purpose is to give students a concrete way to visualize them rather than only working with a logical abstraction in their minds.

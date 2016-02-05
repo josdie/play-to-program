@@ -1,0 +1,4 @@
+Katherine Gunion, Todd Milford, Ulrike Stege<br>
+Pages 124-128<br>
+<br>
+They held a 7-week after school course with a small group of middle school students, trying to teach them recursion. They made heavy use of the concept of visual recursion, applying it to actual pictures as well as within a visual programming environment called MicroWorlds EX. Using the concept of visual recursion to create recursive programming tasks within a visual programming environment is an interesting idea. The recursive nature of the picture created should be fairly obvious, as they noted that the recursive nature of complicated things like snowflakes and Mandlebrot were not apparent to the students.
